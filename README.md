@@ -20,7 +20,7 @@ I build practical software, explore how systems work, and connect technical solu
 
 | Project | What it demonstrates | Stack |
 | --- | --- | --- |
-| **[OpsRelay - AI Incident Response](https://github.com/faizm10/opsrelay-agent)** | Hackathon team project; I built the NovaMart storefront, NovaConnect messaging app, and uptime monitoring/status dashboard integrated with the incident-response platform | **Next.js · FastAPI · Python · MongoDB Atlas · GitHub Actions** |
+| **[OpsRelay - AI Incident Response](https://github.com/faizm10/opsrelay-agent)** | Hackathon team project; I built NovaMart, NovaConnect, and uptime monitoring/status dashboard. [My contributions and merged PRs](projects/opsrelay.md) | **Next.js · FastAPI · Python · MongoDB Atlas · GitHub Actions** |
 | **[E-Commerce Analytics Platform](https://github.com/iamTMW/ecommerce-analytics-platform)** | Full-stack sales, product and customer analytics; REST APIs; automated lint/test pipelines; delivery across eight Scrum sprints | **React · TypeScript · Spring Boot · MariaDB · Docker · GitLab CI/CD** |
 | **[EduPro — Adaptive Tutoring](https://github.com/iamTMW/edu-pro-ai-tutoring-system)** | Collaborative educational prototype with role-specific student, teacher and parent workflows | **Next.js · React · Flask · Python** |
 | **[vCard Manager](https://github.com/iamTMW/vCard-Manager)** | Native contact-file parsing and management with a Python terminal interface | **C · Python · MySQL** |
