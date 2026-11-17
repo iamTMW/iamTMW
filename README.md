@@ -20,13 +20,13 @@ I build practical software, explore how systems work, and connect technical solu
 
 | Project | What it demonstrates | Stack |
 | --- | --- | --- |
+| **[OpsRelay - AI Incident Response](https://github.com/faizm10/opsrelay-agent)** | Hackathon team project; I built the NovaMart storefront, NovaConnect messaging app, and uptime monitoring/status dashboard integrated with the incident-response platform | **Next.js · FastAPI · Python · MongoDB Atlas · GitHub Actions** |
 | **[E-Commerce Analytics Platform](https://github.com/iamTMW/ecommerce-analytics-platform)** | Full-stack sales, product and customer analytics; REST APIs; automated lint/test pipelines; delivery across eight Scrum sprints | **React · TypeScript · Spring Boot · MariaDB · Docker · GitLab CI/CD** |
 | **[EduPro — Adaptive Tutoring](https://github.com/iamTMW/edu-pro-ai-tutoring-system)** | Collaborative educational prototype with role-specific student, teacher and parent workflows | **Next.js · React · Flask · Python** |
-| **[GradeManagerPlus](https://github.com/iamTMW/GradeManagerPlus)** | Windows desktop application for grade records, student/admin workflows and visual reporting | **C# · Windows Forms · Access** |
 | **[vCard Manager](https://github.com/iamTMW/vCard-Manager)** | Native contact-file parsing and management with a Python terminal interface | **C · Python · MySQL** |
 | **[Investment Portfolio Manager](https://github.com/iamTMW/ePortfolio)** | Portfolio transactions, investment searching, gain calculations and local persistence | **Java · Swing** |
 
-> **Collaboration & credit:** E-Commerce Analytics and EduPro were built with teams. The linked repositories retain their contributors' Git history; descriptions highlight the overall systems rather than claiming sole authorship.
+> **Collaboration & credit:** OpsRelay, E-Commerce Analytics, and EduPro were team projects. OpsRelay links to the original shared repository, where my merged pull requests document the NovaMart, NovaConnect, and uptime-monitoring contributions. Descriptions do not claim sole authorship.
 
 ## What I bring to the table
 
@@ -41,8 +41,8 @@ I build practical software, explore how systems work, and connect technical solu
 | Area | Technologies and practices |
 | --- | --- |
 | **Languages** | Python, Java, JavaScript, TypeScript, C, C#, SQL, Dart |
-| **Application development** | React, Next.js, Spring Boot, Flask, REST APIs, React Native |
-| **Data & infrastructure** | MariaDB, MySQL, Docker, Git, GitLab CI/CD, GitHub Actions |
+| **Application development** | React, Next.js, Spring Boot, Flask, FastAPI, REST APIs, React Native |
+| **Data & infrastructure** | MongoDB Atlas, MariaDB, MySQL, Docker, Git, GitLab CI/CD, GitHub Actions |
 | **Analysis & delivery** | Agile/Scrum, user stories, acceptance criteria, UML, software testing, SAP |
 
 ## Currently developing
